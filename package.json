@@ -1,0 +1,9 @@
+{
+  "name": "sqlidetect",
+  "title": "sqlidetect",
+  "id": "jid1-bh5NwGUxGTJwvQ",
+  "description": "Detects sqli injections",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.2"
+}
